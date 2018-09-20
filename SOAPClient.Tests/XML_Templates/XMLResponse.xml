@@ -1,0 +1,169 @@
+﻿<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:TeamPlayersResponse xmlns:m="https://footballpool.dataaccess.eu">
+      <m:TeamPlayersResult>
+        <m:tPlayer>
+          <m:iId>1225</m:iId>
+          <m:sName>Abel Aguilar</m:sName>
+          <m:sFullName>Abel Aguilar</m:sFullName>
+          <m:sFirstName>Abel</m:sFirstName>
+          <m:sLastName>Aguilar</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1217</m:iId>
+          <m:sName>Santiago Arias</m:sName>
+          <m:sFullName>Santiago Arias</m:sFullName>
+          <m:sFirstName>Santiago</m:sFirstName>
+          <m:sLastName>Arias</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1234</m:iId>
+          <m:sName>Carlos Bacca</m:sName>
+          <m:sFullName>Carlos Bacca</m:sFullName>
+          <m:sFirstName>Carlos</m:sFirstName>
+          <m:sLastName>Bacca</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1229</m:iId>
+          <m:sName>Wílmar Barrios</m:sName>
+          <m:sFullName>Wílmar Barrios</m:sFullName>
+          <m:sFirstName>Wílmar</m:sFirstName>
+          <m:sLastName>Barrios</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1237</m:iId>
+          <m:sName>Miguel Borja</m:sName>
+          <m:sFullName>Miguel Borja</m:sFullName>
+          <m:sFirstName>Miguel</m:sFirstName>
+          <m:sLastName>Borja</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1240</m:iId>
+          <m:sName>José Fernando Cuadrado</m:sName>
+          <m:sFullName>José Fernando Cuadrado</m:sFullName>
+          <m:sFirstName>José</m:sFirstName>
+          <m:sLastName>Cuadrado</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1250</m:iId>
+          <m:sName>Juan Cuadrado</m:sName>
+          <m:sFullName>Juan Cuadrado</m:sFullName>
+          <m:sFirstName>Juan</m:sFirstName>
+          <m:sLastName>Cuadrado</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1218</m:iId>
+          <m:sName>Frank Fabra</m:sName>
+          <m:sFullName>Frank Fabra</m:sFullName>
+          <m:sFirstName>Frank</m:sFirstName>
+          <m:sLastName>Fabra</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1233</m:iId>
+          <m:sName>Radamel Falcao</m:sName>
+          <m:sFullName>Radamel Falcao</m:sFullName>
+          <m:sFirstName>Radamel</m:sFirstName>
+          <m:sLastName>Falcao</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1239</m:iId>
+          <m:sName>José Izquierdo</m:sName>
+          <m:sFullName>José Izquierdo</m:sFullName>
+          <m:sFirstName>José</m:sFirstName>
+          <m:sLastName>Izquierdo</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1231</m:iId>
+          <m:sName>Jefferson Lerma</m:sName>
+          <m:sFullName>Jefferson Lerma</m:sFullName>
+          <m:sFirstName>Jefferson</m:sFirstName>
+          <m:sLastName>Lerma</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1220</m:iId>
+          <m:sName>Yerry Mina</m:sName>
+          <m:sFullName>Yerry Mina</m:sFullName>
+          <m:sFirstName>Yerry</m:sFirstName>
+          <m:sLastName>Mina</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1222</m:iId>
+          <m:sName>Johan Mojica</m:sName>
+          <m:sFullName>Johan Mojica</m:sFullName>
+          <m:sFirstName>Johan</m:sFirstName>
+          <m:sLastName>Mojica</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1235</m:iId>
+          <m:sName>Luis Muriel</m:sName>
+          <m:sFullName>Luis Muriel</m:sFullName>
+          <m:sFirstName>Luis</m:sFirstName>
+          <m:sLastName>Muriel</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1219</m:iId>
+          <m:sName>Oscar Murillo</m:sName>
+          <m:sFullName>Oscar Murillo</m:sFullName>
+          <m:sFirstName>Oscar</m:sFirstName>
+          <m:sLastName>Murillo</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1214</m:iId>
+          <m:sName>David Ospina</m:sName>
+          <m:sFullName>David Ospina</m:sFullName>
+          <m:sFirstName>David</m:sFirstName>
+          <m:sLastName>Ospina</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1228</m:iId>
+          <m:sName>Juan Fernando Quintero</m:sName>
+          <m:sFullName>Juan Fernando Quintero</m:sFullName>
+          <m:sFirstName>Juan</m:sFirstName>
+          <m:sLastName>Quintero</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1226</m:iId>
+          <m:sName>James Rodríguez</m:sName>
+          <m:sFullName>James Rodríguez</m:sFullName>
+          <m:sFirstName>James</m:sFirstName>
+          <m:sLastName>Rodríguez</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1224</m:iId>
+          <m:sName>Carlos Sánchez</m:sName>
+          <m:sFullName>Carlos Sánchez</m:sFullName>
+          <m:sFirstName>Carlos</m:sFirstName>
+          <m:sLastName>Sánchez</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1221</m:iId>
+          <m:sName>Davinson Sánchez</m:sName>
+          <m:sFullName>Davinson Sánchez</m:sFullName>
+          <m:sFirstName>Davinson</m:sFirstName>
+          <m:sLastName>Sánchez</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1230</m:iId>
+          <m:sName>Mateus Uribe</m:sName>
+          <m:sFullName>Mateus Uribe</m:sFullName>
+          <m:sFirstName>Mateus</m:sFirstName>
+          <m:sLastName>Uribe</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1215</m:iId>
+          <m:sName>Camilo Vargas</m:sName>
+          <m:sFullName>Camilo Vargas</m:sFullName>
+          <m:sFirstName>Camilo</m:sFirstName>
+          <m:sLastName>Vargas</m:sLastName>
+        </m:tPlayer>
+        <m:tPlayer>
+          <m:iId>1216</m:iId>
+          <m:sName>Cristián Zapata</m:sName>
+          <m:sFullName>Cristián Zapata</m:sFullName>
+          <m:sFirstName>Cristián</m:sFirstName>
+          <m:sLastName>Zapata</m:sLastName>
+        </m:tPlayer>
+      </m:TeamPlayersResult>
+    </m:TeamPlayersResponse>
+  </soap:Body>
+</soap:Envelope>
