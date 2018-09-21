@@ -27,6 +27,7 @@ namespace SOAPClient.Core.Serializer
             XmlNamespaceManager ns = new XmlNamespaceManager(xDoc.NameTable);
             ns.AddNamespace("m", "https://footballpool.dataaccess.eu");
 
+            // Environment.CurrentDirectory.Split(new string[] { "\\bin\\Debug" }, StringSplitOptions.None)[0];
             xDoc.LoadXml(xml);
 
             XmlNodeList details = xDoc.GetElementsByTagName("m:tPlayer");
